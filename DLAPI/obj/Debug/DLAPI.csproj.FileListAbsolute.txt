@@ -1,0 +1,6 @@
+C:\Users\ranit\source\repos\BarBaruchel\dotNet5781_1853_9327\bin\DLAPI.dll
+C:\Users\ranit\source\repos\BarBaruchel\dotNet5781_1853_9327\bin\DLAPI.pdb
+C:\Users\ranit\source\repos\BarBaruchel\dotNet5781_1853_9327\DLAPI\obj\Debug\DLAPI.csproj.CoreCompileInputs.cache
+C:\Users\ranit\source\repos\BarBaruchel\dotNet5781_1853_9327\DLAPI\obj\Debug\DLAPI.dll
+C:\Users\ranit\source\repos\BarBaruchel\dotNet5781_1853_9327\DLAPI\obj\Debug\DLAPI.pdb
+C:\Users\ranit\source\repos\BarBaruchel\dotNet5781_1853_9327\DLAPI\obj\Debug\DLAPI.csprojAssemblyReference.cache
