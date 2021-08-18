@@ -1,0 +1,6 @@
+C:\Users\ranit\Source\Repos\BarBaruchel\dotNet5781_1853_9327\dotNet5781_02_1853_9327\bin\Debug\dotNet5781_02_1853_9327.exe.config
+C:\Users\ranit\Source\Repos\BarBaruchel\dotNet5781_1853_9327\dotNet5781_02_1853_9327\bin\Debug\dotNet5781_02_1853_9327.exe
+C:\Users\ranit\Source\Repos\BarBaruchel\dotNet5781_1853_9327\dotNet5781_02_1853_9327\bin\Debug\dotNet5781_02_1853_9327.pdb
+C:\Users\ranit\Source\Repos\BarBaruchel\dotNet5781_1853_9327\dotNet5781_02_1853_9327\obj\Debug\dotNet5781_02_1853_9327.csproj.CoreCompileInputs.cache
+C:\Users\ranit\Source\Repos\BarBaruchel\dotNet5781_1853_9327\dotNet5781_02_1853_9327\obj\Debug\dotNet5781_02_1853_9327.exe
+C:\Users\ranit\Source\Repos\BarBaruchel\dotNet5781_1853_9327\dotNet5781_02_1853_9327\obj\Debug\dotNet5781_02_1853_9327.pdb
